@@ -46,4 +46,4 @@ Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.c
 
 Thank you for visiting my GitHub profile! 🙌
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jichong-tay/)
