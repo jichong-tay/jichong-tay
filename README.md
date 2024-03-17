@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Welcome to My GitHub Profile
 
-👋 Hello, I'm Ji Chong, a Software Engineer Trainee currently participating in Foodpanda's PowerUp! SG Traineeship Program. This program, held in collaboration with IMDA under the TechSkills Accelerator (TeSA) initiative Company-Led Training (CLT) and Ngee Ann Polytechnic, is propelling my journey in the dynamic field of technology.
+👋 Hello, I'm Ji Chong, a Software Engineer who has participated in Foodpanda's PowerUp! SG Traineeship Program. This program, held in collaboration with IMDA under the TechSkills Accelerator (TeSA) initiative Company-Led Training (CLT) and Ngee Ann Polytechnic, is propelling my journey in the dynamic field of technology.
 
 ## 🚀 About Me
 
