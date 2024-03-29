@@ -24,7 +24,7 @@ With a solid foundation in operations, business analytics, and project managemen
 
 ## 💼 Professional Background
 
-- Completed a Software Engineer Trainee in Foodpanda's PowerUp! SG Traineeship Program
+- Completed Foodpanda's PowerUp! SG Traineeship Program as a Software Engineer.
 - TechSkills Accelerator (TeSA) initiative Company-Led Training (CLT) in partnership with IMDA and Ngee Ann Polytechnic
 - Extensive background in operations, business analytics, and project management
 
